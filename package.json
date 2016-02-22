@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "file-loader": "^0.8.5",
+    "pg": "^4.4.4",
+    "q": "^1.4.1",
+    "request": "^2.69.0"
+  },
+  "name": "schedule-calculator-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Paul Anderson",
+  "license": "MIT",
+  "description": ""
+}
